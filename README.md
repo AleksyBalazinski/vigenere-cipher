@@ -1,4 +1,4 @@
-## vigenere-cipher
+# vigenere-cipher
 Encrypts text (assumably passwords) inserted by a user and saves the encrypted version to a newly created txt file located in a given localization. 
 Conversly, it can also decrypt text from a txt file in a user-given localization.
 ### Encryption method
