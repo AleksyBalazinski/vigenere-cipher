@@ -80,4 +80,7 @@ int main()
         std::cout << "Error\n";
     }
     }
+    
+    std::cout << "\nPress any key to close...";
+    getchar();
 }
